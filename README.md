@@ -25,12 +25,12 @@ Origine : [pwnduino](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-pwndui
 > http://localhost
 
 #### tentez 
-> nc pwnduino.cyrhades.fr:4000
+> nc pwnduino.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
